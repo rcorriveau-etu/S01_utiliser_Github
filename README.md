@@ -1,7 +1,7 @@
-# S1 - Utiliser GitLab
+# S1 - Utiliser GitHub
 
 ### Objectifs :
-- Utiliser Git et GitLab (_fork_)
+- Utiliser Git et GitHub (_fork_)
 - Utiliser WebStorm (ex. validation du code, afficher la page dans le navigateur)
 
 ### Instructions
@@ -9,4 +9,3 @@
 2. Modifier le fichier index.html
 3. Pousser la modification
 4. M'ajouter comme développeur à votre projet personnel
-5. Marquer le devoir comme terminé dans Google Classroom
